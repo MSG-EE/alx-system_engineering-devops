@@ -1,7 +1,2 @@
 #!/bin/bash
-
-
-
-echo "/etc/passwd"
-
-
+echo "/etc/passw"`
