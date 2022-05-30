@@ -1,2 +1,7 @@
 #!/bin/bash
+##
+# User Database
+
 echo "/etc/passwd"
+##
+#the above stored texts are confidential
